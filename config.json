@@ -1,0 +1,5 @@
+{
+    "input_path": "s3://aws-glue-demo/input_data/netflix_dataset.csv",
+    "output_path": "s3://aws-glue-demo/output_data/",
+    "processed_file_name": "netflix_dataset.csv"
+}
